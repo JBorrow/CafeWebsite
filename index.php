@@ -2,33 +2,25 @@
 
 <html>
 
-    <head>
-        <link rel = "stylesheet" type = "text/css" href = "stylesheet.css"/>
-    </head>
+    <?php
+    
+    require_once("Parts/head.php");
+
+    ?>
 
     <body>
-        
-        <ul class = 'navbar'>
 
-            <li><a href = "index.php">Home</a></li>
-            <li><a href = "about.php">About</a></li>
-            <li><a href = "past.php">Past Cafes</a></li>
-            <li><a href = "future.php">Upcoming Cafes</a></li>
+        <?php
 
-        </ul>
+        require_once("Parts/navbar.php");
 
-        <div class = 'header'>
-            
-             <h1>Cafe Scientifique</h1>
-             <h3>Durham City</h3> 
-
-        </div>
+        ?>
         
         <div class = "container">
 
         <div class = 'main'>
 
-            <h2>Welcome to Cafe Scientifique</h2>
+            <h1>Welcome to Cafe Scientifique</h1>
 
             <p>Cafe Scientifique is a fun, science orientated organisation that
             aims to bring together scientists and non scientists from all
@@ -53,7 +45,7 @@
         
         <div class = 'sidebar'>
             
-            <h2>Upcoming Cafes</h2>
+            <h1>Upcoming Cafes</h1>
 
             <div class = 'sbi'>
                 <h2>Welcome Back Cafe</h2>
@@ -66,12 +58,14 @@
         </div>
 
         </div>
+        
+        <?php
 
-        <div class = "footer">
-      
-            Web design by Josh Borrow
+        require_once("Parts/footer.php");
 
-        </div>
+        ?>
+        
     </body>
-
+    
 </html>
+
