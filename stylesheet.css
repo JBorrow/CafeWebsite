@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
     max-width:67em;
-    margin:1em auto 40em auto;
+    margin:1em auto 0 auto;
     clear:both;
 }
 
@@ -57,6 +57,11 @@ h1, h2, h3, h4, h5, h6 {
 .main {
     max-width:45em;
     float:left;
+}
+
+.main img {
+    max-width:100%;
+    border:1px solid black;
 }
 
 /* Sidebar styling */
@@ -71,4 +76,41 @@ h1, h2, h3, h4, h5, h6 {
 .footer {
     clear:both;
     padding:1em;
+    border-top:1px solid black;
+}
+
+.getsinway {
+    height:10em;
+    clear:both;
+}
+
+/* Previous styling */
+
+.datesinpast {
+    min-width:10em;
+    min-height:2em;
+    font-size:1.5em;
+    text-align:center;
+    display:inline-block;
+}
+
+.textinpast {
+    font-size:1.5em;
+    min-height:1.75em;
+}
+
+/* Upcoming styling */
+
+.upcoming {
+    max-width:20em;
+    float:left;
+}
+
+.upcoming h1 {
+    font-size:1.5em;
+}
+
+.upcoming img {
+    max-width:20em;
+    border:1px solid black;
 }

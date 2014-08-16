@@ -46,14 +46,14 @@
         <div class = 'sidebar'>
             
             <h1>Upcoming Cafes</h1>
+            
+            <?php
 
-            <div class = 'sbi'>
-                <h2>Welcome Back Cafe</h2>
+            require_once("upcoming.php");
 
-                <p>This Cafe will consist of people who don't really know what
-                they're talking about let loose on a crowd of people who are
-                really enthusiastic. It will be great. Come along!</p>
-            </div>
+            upcomingmakedivs("Upcoming");
+
+            ?>
 
         </div>
 

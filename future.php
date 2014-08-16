@@ -20,30 +20,22 @@
 
         <div class = 'main'>
 
+            <h1> Upcoming Cafes </h1>
+
             <?php
+            
+            require_once("upcoming.php");
 
-            require_once("previous.php");
+            upcomingmakedivs("Upcoming");
 
-            $id = $_GET['id'];
-
-            echo read($id);
-
-            ?>
+            ?>            
 
         </div>
 
         <div class = 'sidebar'>
 
-            <h1>Upcoming Cafes</h1>
+            <h1> Previous Cafes </h1>
 
-            <?php
-
-            require_once("upcoming.php");
-
-            upcomingmakedivs("Upcoming");
-
-            ?>
-            
         </div>
 
         </div>
@@ -57,4 +49,5 @@
     </body>
 
 </html>
+
 

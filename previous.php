@@ -1,5 +1,26 @@
 <?php
 
+function monthsorter($array)
+{
+    $months = array("January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December");
+    
+    $sorted = array();
+    
+    foreach ($months as $month) {
+        if (in_array($month, $array)) {
+            array_push($sorted, $month);
+        }
+    }
+    
+    if (count($sorted) == 0) {
+        //if you have no months - i.e. array is years etc
+        return $array;
+    } else {
+        return $sorted;
+    }
+}
+
 function directorylister($dir)
 {
     //find the contents
@@ -17,7 +38,7 @@ function directorylister($dir)
         }
     }
 
-    return $realdirs;
+    return monthsorter($realdirs);
 }
 
 function makedivs($dir)
@@ -37,7 +58,7 @@ function makedivs($dir)
             preg_match("'<h1>(.*?)</h1>'si", $read, $titles);
             //preg match returns an array which we must index
             $title = strip_tags($titles[0]);
-            echo "<div class = \"datesinpast\">
+            echo "<div class = \"textinpast\">
     <a href = \"reader.php?id=$dir/$string\">$title</a>
 </div>";
         }
@@ -49,13 +70,14 @@ function makedivs($dir)
 function read($file)
 {
     $handle = fopen($file, 'r');
-    
     $read = fread($handle, 1000000);
-
     fclose($handle);
 
-    $string = strip_tags($read, "<h1><h2><h3><h4><h5><h6><a><p>");
+    $string = strip_tags($read, "<img><h1><h2><h3><h4><h5><h6><a><p>");
     
+    //remove all of tim's nasty return chars
+    $string = preg_replace('/&#160;/', " ", $string); 
+
     return $string;
 }
 
