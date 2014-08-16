@@ -1,11 +1,21 @@
-html * {
-    margin:none;
-    padding:none;
-    font-family:Helvetica Neue, Helvetica, FreeSans, Arial, sans-serif;
+/* COLOURS:
+blue : 10B8FF
+green : 0DE84A
+yellow : F2FF1B
+dark orange : E89A0D */
+
+
+body {
+    font-family:Menlo, "Source Code Pro", monospace;
 }
 
 a {
+    color:#10B8FF;
     text-decoration:none;
+}
+
+a:hover {
+    color:#0DE84A;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,13 +26,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .navbar {
     list-style:none;
+    margin:0 0 4em 0;
+    border-bottom:1px solid black;
 }
 
 .navbar li {
     display:inline-block;
-}
-
-.navbar a {
     padding:1em;
 }
 
