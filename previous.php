@@ -30,9 +30,15 @@ function makedivs($dir)
     <a href = \"past.php?id=$dir/$string\">$string</a>
 </div>";
         } elseif (file_exists("$dir/$string") ) {
-            $string = substr($string, 0, -5);
+            //we need to open the file and grab the title
+            $handle = fopen("$dir/$string", "r");
+            $read = fread($handle, 1000);
+            fclose($handle);
+            preg_match("'<h1>(.*?)</h1>'si", $read, $titles);
+            //preg match returns an array which we must index
+            $title = strip_tags($titles[0]);
             echo "<div class = \"datesinpast\">
-    <a href = \"reader?id=$dir/$string.html\">$string</a>
+    <a href = \"reader.php?id=$dir/$string\">$title</a>
 </div>";
         }
     }
@@ -42,12 +48,14 @@ function makedivs($dir)
 
 function read($file)
 {
-    $f = fopen($file, 'r');
+    $handle = fopen($file, 'r');
+    
+    $read = fread($handle, 1000000);
 
-    $f = fread($f);
+    fclose($handle);
 
-    $f = strip_tags($f, "<h1><h2><h3><h4><h5><h6><a><p>");
-
-    return $f;
+    $string = strip_tags($read, "<h1><h2><h3><h4><h5><h6><a><p>");
+    
+    return $string;
 }
 
