@@ -1,0 +1,63 @@
+html * {
+    margin:none;
+    padding:none;
+    font-family:Helvetica Neue, Helvetica, FreeSans, Arial, sans-serif;
+}
+
+a {
+    text-decoration:none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family:"basic title font", "Helvetica Neue Light", sans-serif;
+}
+
+/* Navbar styling */
+
+.navbar {
+    list-style:none;
+}
+
+.navbar li {
+    display:inline-block;
+}
+
+.navbar a {
+    padding:1em;
+}
+
+/* Header styling */
+
+.header {
+    text-align:center;
+    font-size:2em;
+}
+
+/* Container Styling to Center */
+
+.container {
+    max-width:67em;
+    margin:1em auto 40em auto;
+    clear:both;
+}
+
+/* Main styling */
+
+.main {
+    max-width:45em;
+    float:left;
+}
+
+/* Sidebar styling */
+
+.sidebar {
+    max-width:20em;
+    float:right;
+}
+
+/* Footer styling */
+
+.footer {
+    clear:both;
+    padding:1em;
+}
