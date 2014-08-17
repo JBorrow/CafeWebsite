@@ -11,7 +11,8 @@
     <body>
 
         <?php
-
+        
+        $thisPage = "Home";
         require_once("Parts/navbar.php");
 
         ?>

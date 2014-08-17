@@ -3,7 +3,8 @@
 <html>
 
     <?php
-
+    
+    $thisPage = "Future";
     require_once("Parts/head.php");
 
     ?>

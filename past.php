@@ -4,6 +4,7 @@
 
     <?php
 
+    $thisPage = "Past";
     require_once("Parts/head.php");
 
     ?>
