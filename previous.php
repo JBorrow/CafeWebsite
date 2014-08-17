@@ -44,12 +44,18 @@ function directorylister($dir)
 function makedivs($dir)
 {
     $dirs = directorylister($dir);
-
+    $dirs = array_reverse($dirs);
     foreach ($dirs as $string) {
         if (is_dir("$dir/$string")) {
-            echo "<div class = \"datesinpast\">
-    <a href = \"past.php?id=$dir/$string\">$string</a>
-</div>";
+            echo "<h2>$string</h2>";
+            //now we need to do months
+            $subdirs = directorylister("$dir/$string");
+            foreach ($subdirs as $subdir) {
+                echo "<a href = \"past.php?id=$dir/$string/$subdir\">
+                <div class = \"datesinpast\">
+                $subdir
+                </div></a>";
+            }
         } elseif (file_exists("$dir/$string") ) {
             //we need to open the file and grab the title
             $handle = fopen("$dir/$string", "r");
