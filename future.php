@@ -19,8 +19,6 @@
 
         <div class = "container">
 
-        <div class = 'main'>
-
             <h1> Upcoming Cafes </h1>
 
             <?php
@@ -30,14 +28,6 @@
             upcomingmakedivs("Upcoming");
 
             ?>            
-
-        </div>
-
-        <div class = 'sidebar'>
-
-            <h1> Previous Cafes </h1>
-
-        </div>
 
         </div>
 
