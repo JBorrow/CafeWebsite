@@ -4,6 +4,15 @@ green : 0DE84A
 yellow : F2FF1B
 dark orange : E89A0D */
 
+@font-face {
+    font-family: 'basic title font';
+    src: url('basictitlefont.eot');
+    src: url('basictitlefont.eot') format('embedded-opentype'),
+         url('basictitlefont.woff') format('woff'),
+         url('basictitlefont.ttf') format('truetype'),
+         url('basictitlefont.svg#basictitlefontRegular') format('svg');
+}
+
 body {
     margin-top:0.25em;
     font-family:Menlo, "Source Code Pro", monospace;
