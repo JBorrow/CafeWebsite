@@ -1,7 +1,11 @@
 <h1>Welcome Back Cafe</h1>
 
-<img src = "http://blog.jimdo.com/wp-content/uploads/2014/01/tree-247122.jpg"/>
+<img src = "https://community.dur.ac.uk/r.g.bower/WordPressSite/blog/wordpress/wp-content/uploads/2014/04/74097751_73925807.jpg"/>
 
-<p>This Cafe will consist of people who don't really know what they're talking
-about let loose on a crowd of people who are really enthusiastic. It will be
-great. Come along!</p>
+<h2>18th October 2014</h2>
+
+<p>Professor Carlos Frenk from the Institute for Computational Cosmology will
+be giving a talk on Dark Matter and Dark Energy at this upcoming Cafe. He may
+also be talking about computational cosmology, and, in particular,
+<a href = "http://icc.dur.ac.uk/Eagle">The EAGLE Project</a> - the most recent
+simulation that has been performed on the Durham supercomputer.</p>
