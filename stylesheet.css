@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Container Styling to Center */
 
 .container {
-    max-width:57em;
+    max-width:58em;
     margin:1em auto 0 auto;
     clear:both;
 }
