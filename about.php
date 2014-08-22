@@ -42,7 +42,7 @@
             href = "http://www.emptyshop.org">their website</a>.</p>
             
             <div class = 'map'>
-		    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2301.214632279565!2d-1.57873!3d54.776194000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e7d8a92cf05b7%3A0x176fd4e7767df039!2sEmpty+Shop+HQ!5e0!3m2!1sen!2suk!4v1408647720365" frameborder="0" style="border:0"></iframe>
+		    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2301.214632279565!2d-1.57873!3d54.776194000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e7d8a92cf05b7%3A0x176fd4e7767df039!2sEmpty+Shop+HQ!5e0!3m2!1sen!2suk!4v1408647720365" width='500' height='450' frameborder="0" style="border:0"></iframe>
             </div>
 
             <p>The cafe is funded by the Natural Sciences Society of Durham
