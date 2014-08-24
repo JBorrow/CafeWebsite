@@ -28,6 +28,9 @@
             speakers from Durham University (and others!), who are always happy
             to chat about their research or science in general afterwards.</p>
 
+            <p>We meet at 3:45pm each Saturday during term time at Empty Shop.
+            </p>
+
             <p>The cafe is ran by Josh Borrow and John D'Silva, who are Physics
             and Natural Sciences students respectively. They have recently taken
             the cafe over from Jamal Kinsella and Tim Wiles, who ran it for a
@@ -49,6 +52,10 @@
             University, which we are wholefully grateful for. We use the money
             that they give us to promote future cafes and to buy equipment that
             we need.</p>
+
+            <h1> Contact </h1>
+
+            <p>You can e-mail us at: <a href='&#109;ai&#108;to&#58;&#106;%6&#70;sh&#37;4&#48;ca&#102;esci&#100;ur&#104;a&#109;&#46;c&#111;&#37;2&#69;u%&#54;B'>josh&#64;ca&#102;es&#99;idur&#104;a&#109;&#46;co&#46;uk</a></p>
 
         </div>
 
