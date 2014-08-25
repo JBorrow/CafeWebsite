@@ -129,6 +129,20 @@ h1, h2, h3, h4, h5, h6 {
     border:1px solid black;
 }
 
+.upcomingcontainer {
+    margin:auto;
+    max-width:63.1em;
+}
+
+.upcomingh1 {
+    /*this is so that it ligns up with the other elements*/
+    padding-left:0.25em;
+}
+
+.upcomingcontainer .upcoming {
+    margin:0 0.5em 0 0.5em;
+}
+
 /* About styling */
 
 .map {

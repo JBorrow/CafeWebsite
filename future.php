@@ -17,9 +17,9 @@
 
         ?>
 
-        <div class = "container">
+        <div class = "upcomingcontainer">
 
-            <h1> Upcoming Cafes </h1>
+            <h1 class = "upcomingh1"> Upcoming Cafes </h1>
 
             <?php
             
