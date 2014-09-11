@@ -22,25 +22,32 @@
         <div class = 'main'>
 
             <h1>Welcome to Cafe Scientifique</h1>
+			
+			<h2>What is Cafe Scientifique?</h2>
 
-            <p>Cafe Scientifique is a fun, science orientated organisation that
-            aims to bring together scientists and non scientists from all
-            backgrounds to share science with each other and the rest of the
-            world.</p>
-            
-            <p>We meet each week in Empty Shop during term-time and sometimes
-            out of term time too. We are very grateful to Empty Shop for
-            allowing us to use their space and for their help with design work
-            for promotion of the Cafe. To learn more about the Empty Shop, you
-            can head over to their website <a href = "http://www.emptyshop.org">
-            here.</a></p>
+			<p>Cafe Scientifique Durham City is a platform for talks and
+			discussion about science in a relaxed, informal setting. We
+			regularly host academics who are leaders in their field to talk
+			about their research and related interests.</p>
 
-            <p>There is a lot of information about and recordings of previous
-            cafes on the website, so if you want to jump straight in you can!
-            </p>
+			<p>Anyone is welcome to come along to our free events, be they a
+			student, a member of university staff or a member of the public who
+			has an interest in science! We aim to pitch the talks towards an
+			interested member of the public so even if the talk isn't something
+			you've ever seen before you'll be okay!</p>
 
-            <p>Cafe Scientifique is funded by the Durham University Natural
-            Sciences Society.</p>
+			<h2>When is Cafe Scienitifique?</h2>
+
+			<p>We currently run cafes each week at 3:45 pm on a Saturday during
+			term time. If you would like to find out more about upcoming events,
+			please head over to our <a href = "./upcoming.php">upcoming page</a>
+			</p>
+
+			<h2>Where is Cafe Scientifique?</h2>
+
+			<p>We are grateful to <a href = "http://www.emptyshop.org">The Empty
+			Shop</a> for providing us with space to put on our events. You can
+			find The Empty Shop just outside The Gates Shopping Center.</p>
 
         </div>
         
