@@ -50,6 +50,8 @@
             we need.</p>
 
             <h1> Contact </h1>
+			
+			<p>To get updates on upcoming cafe events, please join our <a href = "https://www.facebook.com/groups/232051036888252">Facebook group!</a></p>
 
             <p>You can e-mail us at: <a href='&#109;ai&#108;to&#58;&#106;%6&#70;sh&#37;4&#48;ca&#102;esci&#100;ur&#104;a&#109;&#46;c&#111;&#37;2&#69;u%&#54;B'>josh&#64;ca&#102;es&#99;idur&#104;a&#109;&#46;co&#46;uk</a></p>
 
