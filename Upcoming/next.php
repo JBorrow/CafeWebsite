@@ -9,6 +9,12 @@ alt = "Picture: Epidermal cells of a leaf" />
 a talk on the cellular nature of skin and regeneration. Afterwards, there will
 be an informal discussion on science news that has occurred over the summer.</p>
 
+<p>Here's the abstract to the talk:</p>
+
+<blockquote>
+We are going to explore the world of skin regeneration and repair. Mammals, unlike some amphibians, are poor at regenerating adult tissues. We’ll explore the reasons behind this and discuss how studying regeneration in newts, axototls, and even flatworms is aiding biomedical research in promoting better healing in humans.
+</blockquote>
+
 <p>As always, we will be meeting in the Empty Shop, which is just outside The
 Gates Shopping Centre. There will be a board outside so you know where you are
 going! The 'doors' will open at 3:45 pm and the talk will be starting at 4:00
