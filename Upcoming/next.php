@@ -11,9 +11,9 @@ be an informal discussion on science news that has occurred over the summer.</p>
 
 <p>You can join the Facebook event
 <a href="https://www.facebook.com/events/377779525711184/">on the Cafe group
-here</a></p>
+here</a>.</p>
 
-<h1>This Cafe has an early start at 3:00 pm</h1>
+<h1>This Cafe starts early at 3:00 pm</h1>
 
 <p>Here's the abstract to the talk:</p>
 
