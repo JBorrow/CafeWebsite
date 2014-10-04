@@ -9,6 +9,10 @@ alt = "Picture: Epidermal cells of a leaf" />
 a talk on the cellular nature of skin and regeneration. Afterwards, there will
 be an informal discussion on science news that has occurred over the summer.</p>
 
+<p>You can join the Facebook event
+<a href="https://www.facebook.com/events/377779525711184/">on the Cafe group
+here</a></p>
+
 <h1>This Cafe has an early start at 3:00 pm</h1>
 
 <p>Here's the abstract to the talk:</p>
