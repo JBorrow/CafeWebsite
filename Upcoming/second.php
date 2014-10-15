@@ -10,6 +10,10 @@ also be talking about computational cosmology, and, in particular,
 <a href = "http://icc.dur.ac.uk/Eagle">The EAGLE Project</a> - the most recent
 simulation that has been performed on the Durham supercomputer.</p>
 
+<p>You can find the Facebook event 
+<a href = https://www.facebook.com/events/355064578006009>here.</a>
+</p>
+
 <p>Here's the abstract for his talk: </p>
 
 <blockquote>
