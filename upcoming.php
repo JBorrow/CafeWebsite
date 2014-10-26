@@ -20,6 +20,7 @@ function upcomingmakedivs($dir)
         } else {
             $content = $read."...";
         }
+        $content = strip_tags($content, "<p><h1><h2><img>");
 
         echo "<a href = \"reader.php?id=$dir/$string\">
     <div class = \"upcoming\">
