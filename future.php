@@ -25,7 +25,7 @@
             
             require_once("upcoming.php");
 
-            upcomingmakedivs("Upcoming");
+            upcomingmakedivs("Upcoming", "upcoming", 10000);
 
             ?>            
 

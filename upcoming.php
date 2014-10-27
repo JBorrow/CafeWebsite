@@ -2,13 +2,13 @@
 
 include_once("previous.php");
 
-function upcomingmakedivs($dir)
+function upcomingmakedivs($dir, $divname = "upcomingmini", $max=3)
 {
     //whoever inherits this, I wrote it this way (importing previous) so that
     //we reduce code re-use... I know it's a little ugly.
 
     $dirs = directorylister($dir);
-  
+    $num = 0;
     foreach ($dirs as $string) {
         $handle = fopen("$dir/$string", "r");
         $read = fread($handle, 300);
@@ -22,10 +22,14 @@ function upcomingmakedivs($dir)
         }
         $content = strip_tags($content, "<p><h1><h2><img>");
 
-        echo "<a href = \"reader.php?id=$dir/$string\">
-    <div class = \"upcoming\">
+        if ($num < $max) {
+            echo "<a href = \"reader.php?id=$dir/$string\">
+    <div class = \"$divname\">
         $content
     </div>
 </a>";
+            $num++;} else {
+            continue;
+        }
     }
 }

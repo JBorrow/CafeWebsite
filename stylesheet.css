@@ -119,13 +119,28 @@ h1, h2, h3, h4, h5, h6 {
 .upcoming {
     max-width:20em;
     float:left;
+    height:25em;
+}
+
+.upcomingmini{
+    max-width:20em;
+    float:left;
 }
 
 .upcoming h1 {
     font-size:1.5em;
 }
 
+.upcomingmini h1 {
+    font-size:1.5em;
+}
+
 .upcoming img {
+    max-width:20em;
+    border:1px solid black;
+}
+
+.upcomingmini img {
     max-width:20em;
     border:1px solid black;
 }

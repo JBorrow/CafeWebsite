@@ -40,7 +40,7 @@
 
             require_once("upcoming.php");
 
-            upcomingmakedivs("Upcoming");
+            upcomingmakedivs("Upcoming", "upcomingmini");
 
             ?>
             
