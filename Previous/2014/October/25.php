@@ -14,3 +14,6 @@ Gates Shopping Centre. There will be a board outside so you know where you are g
 See you there!</p>
 
 <p>Image Credit: Fine Art America</p>
+
+<p>You can find all of the pictures used in the demonstration
+<a href="./color.pptx" target="_blank">by clicking here to download the .pptx file</a>
