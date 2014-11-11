@@ -13,6 +13,9 @@
     What was at stake? How important was it? Come along to the cafe
     to find out.</p>
 
+<p>You can find the Facebook event
+<a href="https://www.facebook.com/events/797018683691714">here.</a></p>
+
 <p>We are
     looking forward to seeing you there at the usual time of 3:45 pm in Empty Shop!
     If you're unsure how to get there, please take a look at our
