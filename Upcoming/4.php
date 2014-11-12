@@ -2,6 +2,8 @@
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/9/9a/Rubik's_Cube_variants.jpg" alt="A picture of a bunch of wonderful cubes" />
 
+<h2>22nd November 2014</h2>
+
 <p>Dr. James Blowey, the director of Natural Sciences at Durham University, will
 be giving a talk on Rubik's cube. He will aim to answer such philisophical
 questions such as "Why do the media find Rubik's cube fascinating?".</p>
