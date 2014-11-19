@@ -8,6 +8,8 @@
 be giving a talk on Rubik's cube. He will aim to answer such philisophical
 questions such as "Why do the media find Rubik's cube fascinating?".</p>
 
+<p>You can find the Facebook event <a href="https://www.facebook.com/events/319554584917352/">here.</a></p>
+
 <p>James has a sizeable collection of Rubik's cubes, and it could be said that
 he's a collector. Come along to learn something new about these fantastic
 puzzles!</p>
