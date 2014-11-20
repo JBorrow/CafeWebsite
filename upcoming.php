@@ -10,7 +10,10 @@ function upcomingmakedivs($dir, $divname = "upcomingmini", $max=3)
     $dirs = directorylister($dir);
     $num = 0;
     foreach ($dirs as $string) {
-        $handle = fopen("$dir/$string", "r");
+        if (in_array(substr($string, -3), array("jpg", "png", "gif"))) {
+		continue; //catch case where item is an image, otherwise garbage
+	}
+	$handle = fopen("$dir/$string", "r");
         $read = fread($handle, 300);
         fclose($handle);
         
