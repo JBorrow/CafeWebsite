@@ -1,7 +1,7 @@
-<h1>Black Holes<h1>
+<h1>Black Holes</h1>
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/5/5e/BH_LMC.png"
-     alt="Simulated black hole at the center of the LMC" />
+<img src="Upcoming/bh.jpg"
+alt="Simulated black hole at the center of the LMC" />
 
 <h2>6th December 2014</h2>
 

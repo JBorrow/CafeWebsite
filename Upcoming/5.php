@@ -1,6 +1,6 @@
 <h1>Plastic Fantastic</h1>
 
-<img src="http://www.milgilounge.com/wp-content/uploads/2011/06/Plastic_beads2.jpg"
+<img src="Upcoming/plastic.jpg"
 	 alt="Picture of plastic" />
 
 <h2>29th November 2014</h2>
