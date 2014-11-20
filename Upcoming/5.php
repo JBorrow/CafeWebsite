@@ -1,7 +1,7 @@
 <h1>Plastic Fantastic</h1>
 
-<img src="http://yuenkong.com/blog/wp-content/uploads/2011/06/Yuenkong-ltd-plastic-injection-material.jpg"
-     alt="Picture of plastic" />
+<img src="http://www.milgilounge.com/wp-content/uploads/2011/06/Plastic_beads2.jpg"
+	 alt="Picture of plastic" />
 
 <h2>29th November 2014</h2>
 
