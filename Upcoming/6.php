@@ -1,13 +1,13 @@
 <h1>Quantum Mechanics</h1>
 
-<img src="http://www.naturphilosophie.co.uk/wp-content/uploads/2013/01/Bubble-chamber.jpg"
-     alt="A picture of a bubble chamber" />
+<img src="http://upload.wikimedia.org/wikipedia/commons/5/5e/BH_LMC.png"
+     alt="Simulated black hole at the center of the LMC" />
 
 <h2>6th December 2014</h2>
 
-<p>Prof. Chris Done will be giving a public-based talk about Quantum Mechanics.
+<p>Prof. Chris Done will be giving a public-based talk about black holes.
 No, you don't need a PhD in Physics to come along - this is aimed at anyone
-who's interested in the funky ways atoms work!</p>
+who's interested in the funky gravity works!</p>
 
 <p>Abstract to come...</p>
 
