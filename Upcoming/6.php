@@ -1,4 +1,4 @@
-<h1>Quantum Mechanics</h1>
+<h1>Black Holes<h1>
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5e/BH_LMC.png"
      alt="Simulated black hole at the center of the LMC" />
@@ -7,7 +7,8 @@
 
 <p>Prof. Chris Done will be giving a public-based talk about black holes.
 No, you don't need a PhD in Physics to come along - this is aimed at anyone
-who's interested in the funky gravity works!</p>
+who's interested in the funky gravity works! Chris teaches the 4th year
+general relativity course in the Physics department, so we're in good hands!</p>
 
 <p>Abstract to come...</p>
 
