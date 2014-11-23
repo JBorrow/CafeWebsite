@@ -1,6 +1,6 @@
 <h1>Rubik's Cube Bonanza</h1>
 
-<img src="Upcoming/cathedral.jpg" alt="A picture of a bunch of wonderful cubes" />
+<img src="Previous/2014/November/cathedral.jpg" alt="A picture of a bunch of wonderful cubes" />
 
 <h2>22nd November 2014</h2>
 
