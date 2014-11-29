@@ -1,6 +1,6 @@
 <h1>Plastic Fantastic</h1>
 
-<img src="Upcoming/plastic.jpg"
+<img src="Previous/2014/November/plastic.jpg"
 	 alt="Picture of plastic" />
 
 <h2>29th November 2014</h2>
